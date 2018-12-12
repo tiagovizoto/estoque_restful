@@ -1,0 +1,17 @@
+*.py[co]
+.DS_Store
+.idea
+*.swp*
+*~
+*.tmproj
+*.log
+.env
+tmp
+*.iml
+.gradle
+/local.properties
+/.idea
+/build
+/captures
+KotlinBarCodeScanner
+/KotlinBarCodeScanner
